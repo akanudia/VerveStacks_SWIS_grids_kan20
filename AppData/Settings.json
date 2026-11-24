@@ -1,0 +1,39 @@
+{
+  "InitialSetupComplete": true,
+  "VRQSettings": {
+    "ExpectedMemory": "4",
+    "MaxHitWaitTime": "2",
+    "Model": "VerveStacks_ITA",
+    "Priority": "10"
+  },
+  "GAMSFoldersListAndDefaults": {
+    "PathGAMSRoot": "C:\\Veda\\Veda",
+    "WorkTimes": "Gams_WrkCenAsia",
+    "SourceTimes": "GAMS_SrcTIMES.v4.7.3",
+    "ListOfSourceTimesFolder": [
+      "GAMS_SrcTIMES.v4.7.3",
+      "GAMS_SrcTIMES.v4.9.7",
+      "GAMS_SrcTIMES.v4.9.8"
+    ],
+    "ListOfWorkTimesFolder": [
+      "Gams_WrkCenAsia",
+      "Gams_WrkIFP",
+      "GAMS_WrkTIMES"
+    ]
+  },
+  "RmFormSettings": {
+    "IsDDWritingOnly": false,
+    "IsRestartOption": false,
+    "MaxRun": "8",
+    "Solver": "CPLEX",
+    "SolverOption": "BA121-7",
+    "StudyName": "pilot_runs",
+    "IsGamsEngine": false,
+    "RemoveVdFiles": false,
+    "DoNotCreateCaseZipFile": true,
+    "GenerateJacobian": false
+  },
+  "RmCaseZipFilesStorage": {
+    "CaseZipFilesRootPath": "C:\\Veda\\Veda\\Veda_case_zip_files"
+  }
+}
