@@ -1,38 +1,38 @@
 [
   {
-    "SavedGroupId": 1008,
+    "SavedGroupId": 1012,
     "GroupName": "all_AR6_R10",
     "GroupType": "Parametric",
     "Settings": "[\"AR6_R10_0001\"]",
-    "CreatedOn": "2026-11-24 18:51",
-    "DisplayCreatedOn": "2026-11-24 18:51",
+    "CreatedOn": "2026-11-24 19:27",
+    "DisplayCreatedOn": "2026-11-24 19:27",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 1006,
+    "SavedGroupId": 1010,
     "GroupName": "AllRegion",
     "GroupType": "Region",
     "Settings": "[\"SWIS\"]",
-    "CreatedOn": "2026-11-24 18:51",
-    "DisplayCreatedOn": "2026-11-24 18:51",
+    "CreatedOn": "2026-11-24 19:27",
+    "DisplayCreatedOn": "2026-11-24 19:27",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 1005,
+    "SavedGroupId": 1009,
     "GroupName": "AllScenario",
     "GroupType": "Scenario",
-    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1158}, {\"Name\": \"Data_Centers\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 31}, {\"Name\": \"New_RE_and_Conventional\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 8139}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1206}, {\"Name\": \"Base_VS\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 2173}, {\"Name\": \"TSParameters_ts_12\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 7321}, {\"Name\": \"TSParameters_ts_24\", \"Checked\": false, \"RowOrder\": 7, \"ShortName\": \"RS\", \"FileStatus\": \"NotImported\", \"RecordCount\": 0}, {\"Name\": \"advanced_features\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1207}]",
-    "CreatedOn": "2026-11-24 18:51",
-    "DisplayCreatedOn": "2026-11-24 18:51",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1158}, {\"Name\": \"Data_Centers\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 31}, {\"Name\": \"New_RE_and_Conventional\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 8145}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1206}, {\"Name\": \"Base_VS\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 2173}, {\"Name\": \"TSParameters_ts_12\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 7321}, {\"Name\": \"TSParameters_ts_24\", \"Checked\": false, \"RowOrder\": 7, \"ShortName\": \"RS\", \"FileStatus\": \"NotImported\", \"RecordCount\": 0}, {\"Name\": \"advanced_features\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1207}]",
+    "CreatedOn": "2026-11-24 19:27",
+    "DisplayCreatedOn": "2026-11-24 19:27",
     "UserName": "akanu"
   },
   {
-    "SavedGroupId": 1007,
+    "SavedGroupId": 1011,
     "GroupName": "DefaultProperties",
     "GroupType": "Properties",
     "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": 0, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
-    "CreatedOn": "2026-11-24 18:51",
-    "DisplayCreatedOn": "2026-11-24 18:51",
+    "CreatedOn": "2026-11-24 19:27",
+    "DisplayCreatedOn": "2026-11-24 19:27",
     "UserName": "akanu"
   }
 ]
